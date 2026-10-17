@@ -16,8 +16,8 @@ A Netflix-inspired website built using HTML, CSS, and JavaScript as a frontend w
 - CSS3
 - JavaScript
 
-## Project Purpose
-This project was created to practise frontend web development skills and recreate the look and feel of a popular streaming platform.
+## Project Preview
+This project recreates the look and feel of a popular streaming platform while practising frontend web development skills.
 
 ## GitHub Repository
 [View Source Code](https://github.com/st793595-gif/netflix-clone-html-css-js)
@@ -27,4 +27,4 @@ This project was created to practise frontend web development skills and recreat
 
 - [GitHub Profile](https://github.com/st793595-gif)
 
-Note: This is an educational clone project and is not affiliated with Netflix.
+*Note: This is an educational clone project and is not affiliated with Netflix.*
